@@ -1,0 +1,198 @@
+body{
+    background-color: #ffffff;
+}
+
+.text{
+    font-size: 4vw;
+    position: absolute;
+    top: 200%;
+    right: 25%;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.text-1{
+    font-size: 2vw; 
+    top: 400%; 
+    right: 27.5%;
+    font-size: 4vw;
+    position: absolute;
+    top: 200%;
+    right: 0;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#text{
+    position: absolute; 
+    top: 25%; 
+    right: 30%; 
+    font-size: 3vw;
+}
+
+.div{
+    border: 0px solid black; 
+    position: relative;
+}
+
+.card{
+    position:absolute; top: 200%; left: 5%;
+    width:20%;
+    height: auto;
+}
+
+.card-text{
+    font-family: 'Courier New', Courier, monospace; 
+    text-align: center; 
+    font-size: 1vw;
+}
+
+.con{
+    display: inline;
+    position: absolute;
+    top: 80vh;
+    right: 14vw;
+    border: 0px solid black;
+    border-radius: 0.5vw;
+    padding: 1vw;
+}
+
+#ex2:hover{
+    color:red;
+}
+
+#ex1:hover{
+    color: (66,103,178);
+}
+
+#ex3:hover{
+    color: black
+}
+
+#ex4:hover{
+    color: rgb(255, 166, 0)
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a{
+    color: rgb(50,51,50);
+}
+
+.font{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 1vw;
+    font-size: 1vw;
+}
+
+.btn:hover{
+    background-color: #0275d8;
+}
+
+#brand_iconh, #brand_iconc, #brand_iconj, #brand_icons, #brand_iconb, #brand_iconcpp, #brand_iconjq{
+    font-size:3vw;
+    padding: 3vw;
+}
+
+.div:hover #brand_iconh
+{
+    color: #e34f26;
+}
+
+.div:hover #brand_iconc{
+    color: #264de4;
+}
+
+.div:hover #brand_iconj{
+    color: #F0DB4F;
+}
+
+.div:hover #brand_icons{
+    color: #CD6799;
+}
+
+.div:hover #brand_iconb{
+    color: #080135;
+}
+
+.div:hover #brand_iconcpp{
+    color: rgb(4, 0, 255);
+}
+
+.div:hover #brand_iconjq{
+    color: #0868AC;
+}
+
+#div7:hover #progr-7{
+    background-color: #0868AC;
+    width: 30%;
+}
+
+#div1:hover #progr-1{
+    background-color :#e34f26;
+    width: 80%;
+}
+
+#div2:hover #progr-2{
+    background-color :#264de4;
+    width: 80%;
+}
+
+#div3:hover #progr-3{
+    background-color: #F0DB4F;
+    width: 60%;
+}
+
+#div4:hover #progr-4{
+    background-color :#CD6799;
+    width: 30%;
+}
+
+#div5:hover #progr-5{
+    background-color :#080135;
+    width: 30%;
+}
+
+#div6:hover #progr-6{
+    background-color :rgb(4, 0, 255);
+    width: 40%;
+}
+
+#text1,#text2,#text3,#text4,#text5,#text6,#text7{
+    color: white;
+}
+
+.div:hover #text1{
+    color:#e34f26 ;
+}
+
+.div:hover #text2{
+    color:#264de4 ;
+}
+
+.div:hover #text3{
+    color:#F0DB4F ;
+}
+
+.div:hover #text4{
+    color:#0868AC ;
+}
+
+div:hover #text5{
+    color:#CD6799 ;
+}
+
+div:hover #text6{
+    color:#080135 ;
+}
+
+div:hover #text7{
+    color:rgb(4, 0, 255) ;
+}
+
+
+
+
+
